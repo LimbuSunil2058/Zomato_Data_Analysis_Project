@@ -6,6 +6,7 @@ Project Overview:
  on Zomato. The goal is to extract meaningful insights about customer preferences, pricing 
  patterns, online ordering trends, and more. This analysis can be valuable for restaurant 
  owners, food delivery platforms, and data enthusiasts.
+
 Dataset:
   The dataset contains several columns such as:
     * name: Name of the restaurant
@@ -40,17 +41,7 @@ Key Findings:
     * Buffet-style restaurants appear popular in the dataset.
     * However, there is a diverse range of cuisines and types catering to different tastes.
 
-Business Insights:
-  * Digital Convenience is Important: Customers are more likely to choose restaurants that 
-    offer online ordering.
-  * Affordable Dining Attracts Customers: Pricing should be optimized to attract budget- 
-    conscious customers.
-  * Customer Feedback Matters: Restaurants with more votes and higher ratings gain better 
-    visibility and trust.
-  * Diversification Works: Offering different types of dining experiences (buffet, casual 
-    dining, etc.) helps attract a wider audience.
-
-Final Thought:
+Final Thought: 
   This analysis highlights that convenience, affordability, and reputation are the major 
   drivers for restaurant success on platforms like Zomato. Future strategies for restaurant 
   owners should focus on enhancing these areas while keeping an eye on changing customer 
