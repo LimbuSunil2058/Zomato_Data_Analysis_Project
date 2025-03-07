@@ -1,14 +1,14 @@
 Zomato Data Analysis Project
 
 
-Project Overview:
+Project Overview: 
  This project focuses on analyzing a dataset containing information about restaurants listed 
  on Zomato. The goal is to extract meaningful insights about customer preferences, pricing 
  patterns, online ordering trends, and more. This analysis can be valuable for restaurant 
  owners, food delivery platforms, and data enthusiasts.
 
 Dataset:
-  The dataset contains several columns such as:
+ The dataset contains several columns such as:
     * name: Name of the restaurant
     * online_order: Whether the restaurant offers online ordering
     * book_table: Whether the restaurant offers table booking
