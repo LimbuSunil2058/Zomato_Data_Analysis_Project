@@ -17,7 +17,7 @@ Dataset:
     * listed_in(type): Type/category of restaurant
 
 Objective:
-§The objective of this analysis is to:
+ The objective of this analysis is to:
   * Understand customer preferences.
   * Analyze pricing trends.
   * Identify factors that influence ratings and votes.
