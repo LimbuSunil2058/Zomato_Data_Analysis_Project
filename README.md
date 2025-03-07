@@ -26,8 +26,8 @@ Objective:
 
 Key Findings:
   1. Online Order Preference
-    * A large number of restaurants offer online ordering.
-    * Restaurants with online ordering options tend to attract more customers.
+    i. A large number of restaurants offer online ordering.
+    ii. Restaurants with online ordering options tend to attract more customers.
   2. Table Booking Trends
     * Not all restaurants offer table booking.
     * However, restaurants with table booking tend to receive more attention from customers, especially for dine-in.
